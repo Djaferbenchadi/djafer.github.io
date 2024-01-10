@@ -8,7 +8,7 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>You can downdload a detailed pdf version of my CV in the following link <a href="https://djafer.github.io/tree/master/files/CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
+<p>You can downdload a detailed pdf version of my CV in the following link <a href="https://djaferbenchadi.github.io/djafer.github.io/tree/master/files/CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
 
 <h2>Education</h2>
 
