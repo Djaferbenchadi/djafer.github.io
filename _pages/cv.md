@@ -109,21 +109,22 @@ redirect_from:
 	</ul>
 </ul>
 
+
 <h2>Certificates</h2>
 <ul>
 
-  <li><b>Cisco CCNA 200-125 (Routing and Switching) 「ICND1」＋「ICND2」, ID: WGJH72TD4LB41RC </li>
-
-  <li><b>Quality of service (QoS) for IPv6 </li>
+  <li><b>Cisco CCNA 200-125 (Routing and Switching)</b> ICND1＋ICND2, ID: WGJH72TD4LB41RC </li>
+  <li>Quality of service (QoS) for IPv6 </li>
 </ul>
+
 
 <h2>Academic Activities</h2>
 <ul>
 
-  <li><b> Machine Vision and Application Conference (MVA) 2023, Poster Presentation</li>
-  <li><b> General Organization committee of CollaboTICS joint workshop 2022</li>
-  <li><b> CollaboTICS workshop 2022, Oral and Poster Presentation</li>
-  <li><b> Participated in and assisted at PhD Visitation in VERIMAG laboratory at University of Grenoble, France</li>
+  <li>Machine Vision and Application Conference (MVA) 2023, Poster Presentation</li>
+  <li>General Organization committee of CollaboTICS joint workshop 2022</li>
+  <li>CollaboTICS workshop 2022, Oral and Poster Presentation</li>
+  <li>Participated in and assisted at PhD Visitation in VERIMAG laboratory at University of Grenoble, France</li>
 </ul>
 
 
