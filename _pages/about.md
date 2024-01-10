@@ -22,15 +22,17 @@ Please contact me at
 &quot;djafer at cvlab.cs.tsukuba.ac.jp&quot;
 
 
-<!-- Contact Section -->
-<div id="contact" class="nav-shadow">
-    <h2 class="mt-2">Contact</h2>
-    <hr />
-    <p>Run the following command in a shell (with Node.js set up) to get my email address:</p>
-    <div class="card mb-3 bg-light">
-        <div class="card-body">
-            <!-- Update the command to use Node.js -->
-            <code>$ echo 'ZGphZmVyQGN2bGFiLmNzLnRzdWt1YmEuYWMuanA=' | node -e "console.log(Buffer.from(process.argv[1], 'base64').toString('ascii'))"</code>
-        </div>
-    </div>
+<!-- Contact -->
+<!-- Shadow nav -->
+<div id="contact" class="nav-shadow"></div>
+<h2 class="mt-2">Contact</h2>
+<hr />
+<p>
+  Run the following command in a shell (with Python set up) to get my
+  email address:
+</p>
+<div class="card mb-3 bg-light">
+  <div class="card-body">
+      <code>$ echo ZGphZmVyQGN2bGFiLmNzLnRzdWt1YmEuYWMuanA= | python -m base64 -d</code>
+  </div>
 </div>
