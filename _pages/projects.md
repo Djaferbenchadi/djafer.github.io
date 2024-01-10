@@ -1,7 +1,7 @@
 ---
-# title: "Research Projects"
-collection: projects
-permalink: /projects.html
+title: "Projects"
+permalink: /projects/
+author_profile: true
 ---
 
 
