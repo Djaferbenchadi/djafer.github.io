@@ -7,26 +7,20 @@ author_profile: true
 
 
 ##  Malware Family Classification 
-<div>
-<img src="https://github.com/Djaferbenchadi/djafer.github.io/tree/master/images/KSM_algorithm.png" alt="Malware classification" class="responsivepost">
-</div>
+![](/images/KSM_algorithm.png)
 [[code]](https://github.com/Djaferbenchadi/Malware_classification_ksm) [[paper]](https://ieeexplore.ieee.org/abstract/document/10244023)
 - Implemented Kernel Subspace Method (KSM) for malware classification based on representative digital images.
 - Results published in IEEE access.
   
 ##  Malware Spoofing (Binary)
-<div>
-<img src="https://github.com/Djaferbenchadi/djafer.github.io/tree/master/images/rff_csm_n.png" alt="Malware analysis" class="responsivepost">
-</div>
+![](/images/rff_csm_n.png)
 [[code]](https://github.com/Djaferbenchadi/Malware_analysis_binary) [[paper]](https://ieeexplore.ieee.org/abstract/document/10215631)
 - Developed a method based on Kernel Constrained Subspace Method (KCSM) and Random Fourier Features (RFF).
 - Tackled malware spoofing task, distinguishing between malware and Benign (safe) files.
 - Results published in MVA2023.
 
 ##  Malware Visualization (Behavior)
-<div>
-<img src="https://github.com/Djaferbenchadi/djafer.github.io/tree/master/images/OSA-KDS-diag.png" alt="OSA-KDS" class="responsivepost">
-</div>
+![](/images/OSA-KDS-diag.png)
 [[code]](https://github.com/Djaferbenchadi/OSA_KDS) [[paper]](https://ieeexplore.ieee.org/abstract/document/10244023)
 - Proposed novel visualization framework (OSA_KDS) for understanding malware behavior.
 - Framework implemented using Occlusion Sensitivity Analysis and Kernel Difference Subspace.
