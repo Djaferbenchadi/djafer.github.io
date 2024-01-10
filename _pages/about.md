@@ -14,11 +14,14 @@ Originally from Batna city, I graduated from University of Mohammed Khider Biskr
 
 For more details, please have a look at my CV [here](https://github.com/Djaferbenchadi/djafer.github.io/tree/master/files/CV.pdf) (last update: Dec. 2023).
 
+#invisibleCommand {
+    color: pink; 
+}
 
 <div id="contact">
     <h2>Contact</h2>
     <p>Run the following command in a shell (with Python set up) to get my email address:</p>
     <div class="command" id="emailCommand" style="display:none;">
-        <code>$ echo 'ZGphZmVyQGN2bGFiLmNzLnRzdWt1YmEuYWMuanA=' | python -m base64 -d</code>
+        <code>id="invisibleCommand">$ echo 'ZGphZmVyQGN2bGFiLmNzLnRzdWt1YmEuYWMuanA=' | python -m base64 -d</code>
     </div>
 </div>
