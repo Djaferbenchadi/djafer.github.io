@@ -2,20 +2,6 @@
 title: "Projects"
 permalink: /projects/
 author_profile: true
-gallery:
-  - url: https://github.com/Djaferbenchadi/djafer.github.io/blob/master/images/KSM_algorithm.jpg
-    image_path: research/dispensers.jpg
-    alt: "novel strontium dispensers with shields"
-    title: "Novel strontium dispensers with shields."
-  - url: https://github.com/Djaferbenchadi/djafer.github.io/blob/master/images/rff_csm_n.jpg
-    image_path: images/rff_csm_n.jpg
-    alt: "3D MOT of a couple million atoms in the glass cell"
-    title: "3D MOT of a couple million atoms in the glass cell."
-  - url: https://github.com/Djaferbenchadi/djafer.github.io/blob/master/images/OSA-KDS-diag.jpg
-    image_path: images/OSA-KDS-diag.jpg
-    alt: "metasurface generated tweezer array in the shape of a quasicrystal"
-    title: "Metasurface generated tweezer array in the shape of a quasicrystal."
-
 ---
 
 
