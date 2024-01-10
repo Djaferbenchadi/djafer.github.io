@@ -16,13 +16,7 @@ For more details, please have a look at my CV [here](https://github.com/Djaferbe
 
 
 
-<div id="contact" class="nav-shadow">
-    <h2 class="mt-2">Contact</h2>
-    <hr />
-    <p>Run the following command in a shell (with Python set up) to get my email address:</p>
-    <div class="card mb-3 bg-light">
-        <div class="card-body">
-            <code>$ echo 'ZGphZmVyQGN2bGFiLmNzLnRzdWt1YmEuYWMuanA=' | python -m base64 -d</code>
-        </div>
-    </div>
-</div>
+## Contact
+Please contact me at
+
+&quot;djafer at cvlab.cs.tsukuba.ac.jp&quot;
