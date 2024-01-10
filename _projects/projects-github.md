@@ -1,5 +1,5 @@
 ---
-title: "Research Projects"
+# title: "Research Projects"
 collection: projects
 permalink: /projects-github.html
 ---

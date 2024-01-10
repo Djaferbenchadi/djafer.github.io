@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benchadi Djafer Yahia.M"
+title                    : "Djafer Yahia.M Benchadi "
 title_separator          : "-"
-name                     : &name "Benchadi Djafer Yahia.M"
+name                     : &name "Djafer Yahia.M Benchadi "
 description              : &description "Personal Academic Webpage"
 # url                      : http://localhost:4000 
 # url                      : https://Djaferbenchadi/djafer.github.io/
@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Benchadi Djafer Yahia.M"
+  name             : "Djafer Yahia.M Benchadi"
   avatar           : "profile-gatech.jpg"
-  bio              : "PhD candidate at CVLAB, University of Tsukuba, Tsukuba, Japan."
+  bio              : "PhD candidate at University of Tsukuba, CVLAB, Japan."
   location         : "Tsukuba, Japan"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

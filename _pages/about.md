@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate working in [CVLAB](https://en.home.cvlab.cs.tsukuba.ac.jp/) at University of Tsukuba. Under the supervision of Prof. Kazuhiro Fukui. I am currently working on projects involving machine learning for malware detection, spoofing applications and cyber security. 
+I am **Benchadi Djafer Yahia.M**, a Ph.D. candidate working in [CVLAB](https://en.home.cvlab.cs.tsukuba.ac.jp/) at [University of Tsukuba](https://www.tsukuba.ac.jp/en/). Under the supervision of [Prof. Kazuhiro Fukui](https://scholar.google.com/citations?user=sHcEkmAAAAAJ&hl=en). I am currently working on projects involving machine learning for malware detection, spoofing applications and cyber security. 
 
 Originally from Batna city, I graduated from University of Mohammed Khider Biskra (class of 2020) with a BS in Computer Science and MS in Networking and Telecommunications. 
 
-My overall goal is to advance in the field of cybersecurity and machine learning by continuing to learn the skills and expertise to become a reliable researcher focused on positive societal impact via effective work in industry and government.
+For more details, please have a look at my CV [here](https://github.com/Djaferbenchadi/djafer.github.io/tree/master/files/CV.pdf) (last update: December. 2023).
+
+
+
+## Contact
+Please contact me at
+
+&quot;djafer at cvlab.cs.tsukuba.ac.jp&quot;
