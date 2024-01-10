@@ -1,7 +1,7 @@
 ---
 # title: "Research Projects"
 collection: projects
-permalink: /projects-github.html
+permalink: /projects.html
 ---
 
 
