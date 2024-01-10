@@ -117,16 +117,13 @@ redirect_from:
   <li><b>Quality of service (QoS) for IPv6 </li>
 </ul>
 
-<h2>ACADEMIC ACTIVITIES</h2>
+<h2>Academic Activities</h2>
 <ul>
 
-  <li><b>Machine Vision and Application Conference (MVA) 2023, Poster Presentation    </li>
-
-  <li><b>General Organization committee of CollaboTICS joint workshop 2022 </li>
-
-  <li><b>CollaboTICS workshop 2022, Oral and Poster Presentation </li>
-
-  <li><b>Participated in and assisted at PhD Visitation in VERIMAG laboratory at University of Grenoble, France </li>
+  <li><b> Machine Vision and Application Conference (MVA) 2023, Poster Presentation</li>
+  <li><b> General Organization committee of CollaboTICS joint workshop 2022</li>
+  <li><b> CollaboTICS workshop 2022, Oral and Poster Presentation</li>
+  <li><b> Participated in and assisted at PhD Visitation in VERIMAG laboratory at University of Grenoble, France</li>
 </ul>
 
 
