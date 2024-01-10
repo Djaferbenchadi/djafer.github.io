@@ -8,7 +8,7 @@ redirect_from:
 
 <div class="text-justify">
 
-<p>You can downdload a detailed pdf version of my CV in the following link <a href="https://github.com/Djaferbenchadi/djafer.github.io/tree/master/files/CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
+<p>You can downdload a detailed pdf version of my CV in the following link <a href="https://djafer.github.io/tree/master/files/CV.pdf">CV</a>. To know in more detail about me and my projects, you can always visit other sections of this website. </p>
 
 <h2>Education</h2>
 
@@ -81,9 +81,8 @@ redirect_from:
 <ul>
 
   <li><b>MEXT Scholarship</b> Awarded PhD Japanese Government scholarship - MEXT - 2021.04 until 2024.03 </li>
-
-
 </ul>
+
 
 <h2> Skills </h2>
 
@@ -116,6 +115,7 @@ redirect_from:
   <li><b>Cisco CCNA 200-125 (Routing and Switching) 「ICND1」＋「ICND2」, ID: WGJH72TD4LB41RC </li>
 
   <li><b>Quality of service (QoS) for IPv6 </li>
+</ul>
 
 <h2>ACADEMIC ACTIVITIES</h2>
 <ul>
@@ -124,6 +124,7 @@ redirect_from:
   <li><b>General Organization committee of CollaboTICS joint workshop 2022 </li>
   <li><b>CollaboTICS workshop 2022, Oral and Poster Presentation </li>
   <li><b>Participated in and assisted at PhD Visitation in VERIMAG laboratory at University of Grenoble, France </li>
+</ul>
 
 
 </div>
